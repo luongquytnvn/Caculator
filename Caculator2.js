@@ -32,7 +32,7 @@ function a02() {
     document.getElementById("idmanhinh").value = document.getElementById("idmanhinh").value+ '-'
 }
 function a03() {
-    document.getElementById("idmanhinh").value = document.getElementById("idmanhinh").value+ 'x'
+    document.getElementById("idmanhinh").value = document.getElementById("idmanhinh").value+ '*'
 }
 function a04() {
     document.getElementById("idmanhinh").value = document.getElementById("idmanhinh").value+ ':'
